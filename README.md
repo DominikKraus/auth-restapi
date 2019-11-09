@@ -5,6 +5,7 @@ Customize the code like you want!
 
 Discord: [Click](https://discord.gg/RnkW8Bm)
 Website: [Click](https://dkraus.xyz)
+Twitter: [Click](https://twitter.com/dominik_kraus1)
 
 ### How to make new public route
 
