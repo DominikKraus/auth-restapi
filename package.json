@@ -1,0 +1,25 @@
+{
+  "name": "server-structure",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "nodemon app.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@hapi/joi": "^16.1.7",
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsdom": "^15.2.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.7.8",
+    "nodemon": "^1.19.4",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "url": "^0.11.0"
+  }
+}
