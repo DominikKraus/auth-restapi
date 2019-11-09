@@ -61,7 +61,7 @@ If the given data is incorrect, we directly send you that the password or email 
 
 ### Creating Database Connection and providing auth token
 
-Click (here)[https://cloud.mongodb.com/] to simply create a new MongoDB Database.
+Click [here][https://cloud.mongodb.com/] to simply create a new MongoDB Database.
 Create a new file in the root folder called `.env` and do it like this:
 ```
     DB_KEY = mongodb+srv://username:password@cluster0-3wqw5.mongodb.net/test?retryWrites=true&w=majority
