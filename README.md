@@ -42,7 +42,7 @@ Send a POST request in JSON format to /api/register
 Example:
 ```json
     {
-        "name": "Dominik Kraus",
+        "name": "admin",
         "email": "mymail@example.com",
         "password": "amazingpassword!"
     }
